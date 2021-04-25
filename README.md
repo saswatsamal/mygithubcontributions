@@ -2,6 +2,24 @@
 Listing down my contribution graphs, skylines from 2018 to till date! :-)
 
 <details open>
+<summary>2021</summary>
+   
+```
+<!--      
+
+            ✦   ▁          ✧✧                    ☽   
+✧            ✧  █     ✦   ✧          ✧               
+ ✧              █  ✦                                ✧
+✦       ✧✦▄▂    █✦   ✦                               
+      ▇▄  ███▇▄ █▃                   ✦           ✦   
+█▁▆▆▅▁██▇██████▅██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+
+-->
+  
+```
+</details>
+
+<details close>
 <summary>2020</summary>
    
 ```
